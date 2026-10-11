@@ -1,0 +1,51 @@
+trade_id,counterparty,ticker,asset_type,instrument,sector,region,currency,rating,notional,market_value,maturity_years,coupon_pct,direction,clients,avg_credit_score,txn_error_rate
+LN-0001,Consumer Staples merchants - US South,,Loan,Revolver,Consumer Staples,US South,USD,BBB,245093943.0,243133191.46,3.67,5.8,1,1216,721.0,0.01362
+LN-0002,Consumer Discretionary merchants - US South,,Loan,Revolver,Consumer Discretionary,US South,USD,BBB,212364157.0,210665243.74,5.78,5.8,1,1216,719.0,0.01304
+LN-0003,Consumer Discretionary merchants - US West,,Loan,Revolver,Consumer Discretionary,US West,USD,A,160174912.0,159534212.35,3.81,5.0,1,1216,725.0,0.01247
+LN-0004,Consumer Staples merchants - US West,,Loan,Revolver,Consumer Staples,US West,USD,BBB,155873742.0,154626752.06,4.03,5.8,1,1193,723.0,0.01337
+LN-0005,Industrials merchants - US Online/Other,,Loan,Revolver,Industrials,US Online/Other,USD,BB,155650452.0,152537442.96,1.07,6.8,1,1212,718.0,0.01974
+LN-0006,Consumer Staples merchants - US Midwest,,Loan,Revolver,Consumer Staples,US Midwest,USD,A,150760370.0,150157328.52,2.82,5.0,1,1196,727.0,0.01295
+LN-0007,Consumer Discretionary merchants - US Online/Other,,Loan,Revolver,Consumer Discretionary,US Online/Other,USD,BB,138196081.0,135432159.38,5.93,6.8,1,1219,722.0,0.02598
+LN-0008,Consumer Staples merchants - US Northeast,,Loan,Revolver,Consumer Staples,US Northeast,USD,BBB,137445668.0,136346102.66,2.67,5.8,1,1181,721.0,0.01258
+LN-0009,Consumer Discretionary merchants - US Northeast,,Loan,Revolver,Consumer Discretionary,US Northeast,USD,BBB,130976053.0,129928244.58,1.03,5.8,1,1184,719.0,0.01232
+LN-0010,Consumer Discretionary merchants - US Midwest,,Loan,Revolver,Consumer Discretionary,US Midwest,USD,A,125642775.0,125140203.9,6.24,5.0,1,1196,726.0,0.01277
+LN-0011,Energy merchants - US South,,Loan,Revolver,Energy,US South,USD,BBB,119553672.0,118597242.62,4.73,5.8,1,1204,722.0,0.01733
+LN-0012,Industrials merchants - US South,,Loan,Revolver,Industrials,US South,USD,BBB,118264317.0,117318202.46,2.15,5.8,1,1207,720.0,0.01441
+LN-0013,Communication Services merchants - US Online/Other,,Loan,Revolver,Communication Services,US Online/Other,USD,B,113401945.0,108865867.2,5.65,8.0,1,1198,721.0,0.02996
+LN-0014,Industrials merchants - US West,,Loan,Revolver,Industrials,US West,USD,A,111615739.0,111169276.04,5.15,5.0,1,1208,725.0,0.01456
+LN-0015,Healthcare merchants - US South,,Loan,Revolver,Healthcare,US South,USD,BB,94432335.0,92543688.3,4.78,6.8,1,1119,719.0,0.01677
+LN-0016,Industrials merchants - US Midwest,,Loan,Revolver,Industrials,US Midwest,USD,BBB,93602846.0,92854023.23,3.98,5.8,1,1203,724.0,0.01498
+LN-0017,Financials merchants - US South,,Loan,Revolver,Financials,US South,USD,B,92908673.0,89192326.08,1.26,8.0,1,1095,712.0,0.02925
+LN-0018,Energy merchants - US Midwest,,Loan,Revolver,Energy,US Midwest,USD,BBB,83037462.0,82373162.3,4.32,5.8,1,1154,724.0,0.01788
+LN-0019,Energy merchants - US West,,Loan,Revolver,Energy,US West,USD,BBB,81609302.0,80956427.58,6.93,5.8,1,1163,722.0,0.01826
+LN-0020,Energy merchants - US Northeast,,Loan,Revolver,Energy,US Northeast,USD,BB,65231856.0,63927218.88,6.97,6.8,1,1126,715.0,0.01684
+LN-0021,Industrials merchants - US Northeast,,Loan,Revolver,Industrials,US Northeast,USD,BB,64840879.0,63544061.42,2.49,6.8,1,1135,716.0,0.01271
+LN-0022,Financials merchants - US West,,Loan,Revolver,Financials,US West,USD,B,62409060.0,59912697.6,1.21,8.0,1,926,722.0,0.03906
+LN-0023,Healthcare merchants - US Midwest,,Loan,Revolver,Healthcare,US Midwest,USD,A,59075131.0,58838830.48,4.09,5.0,1,993,728.0,0.01607
+LN-0024,Financials merchants - US Midwest,,Loan,Revolver,Financials,US Midwest,USD,BB,57868401.0,56711032.98,2.29,6.8,1,937,723.0,0.02343
+LN-0025,Healthcare merchants - US West,,Loan,Revolver,Healthcare,US West,USD,BB,57111835.0,55969598.3,4.08,6.8,1,988,720.0,0.01685
+LN-0026,Financials merchants - US Northeast,,Loan,Revolver,Financials,US Northeast,USD,BB,54353498.0,53266428.04,1.96,6.8,1,890,721.0,0.02964
+LN-0027,Healthcare merchants - US Northeast,,Loan,Revolver,Healthcare,US Northeast,USD,BBB,54130478.0,53697434.18,3.8,5.8,1,896,724.0,0.01593
+LN-0028,Energy merchants - US Online/Other,,Loan,Revolver,Energy,US Online/Other,USD,B,50108801.0,48104448.96,5.76,8.0,1,1081,720.0,0.02891
+LN-0029,Financials merchants - US Online/Other,,Loan,Revolver,Financials,US Online/Other,USD,BB,37568268.0,36816902.64,4.68,6.8,1,1093,721.0,0.02535
+LN-0030,Communication Services merchants - US South,,Loan,Revolver,Communication Services,US South,USD,BB,36308797.0,35582621.06,2.35,6.8,1,1086,717.0,0.01574
+LN-0031,Materials merchants - US South,,Loan,Revolver,Materials,US South,USD,BB,30921397.0,30302969.06,5.98,6.8,1,1108,719.0,0.0147
+LN-0032,Communication Services merchants - US West,,Loan,Revolver,Communication Services,US West,USD,BBB,23073229.0,22888643.17,2.8,5.8,1,954,721.0,0.01502
+LN-0033,Communication Services merchants - US Midwest,,Loan,Revolver,Communication Services,US Midwest,USD,A,22616322.0,22525856.71,4.75,5.0,1,925,725.0,0.0138
+LN-0034,Materials merchants - US West,,Loan,Revolver,Materials,US West,USD,BBB,21322583.0,21152002.34,1.93,5.8,1,972,723.0,0.01434
+LN-0035,Communication Services merchants - US Northeast,,Loan,Revolver,Communication Services,US Northeast,USD,BB,18930219.0,18551614.62,6.38,6.8,1,861,718.0,0.01417
+LN-0036,Materials merchants - US Midwest,,Loan,Revolver,Materials,US Midwest,USD,BBB,17106237.0,16969387.1,2.2,5.8,1,903,724.0,0.01579
+LN-0037,Materials merchants - US Northeast,,Loan,Revolver,Materials,US Northeast,USD,BBB,13415285.0,13307962.72,3.22,5.8,1,803,720.0,0.0126
+LN-0038,Consumer Staples merchants - US Online/Other,,Loan,Revolver,Consumer Staples,US Online/Other,USD,A,6703334.0,6676520.66,2.53,5.0,1,1173,725.0,0.01422
+LN-0039,Utilities merchants - US South,,Loan,Revolver,Utilities,US South,USD,BBB,5089198.0,5048484.42,4.05,5.8,1,878,719.0,0.01374
+LN-0040,Utilities merchants - US West,,Loan,Revolver,Utilities,US West,USD,BB,3614885.0,3542587.3,6.23,6.8,1,629,722.0,0.02266
+LN-0041,Materials merchants - US Online/Other,,Loan,Revolver,Materials,US Online/Other,USD,B,3481415.0,3342158.4,1.02,8.0,1,875,721.0,0.03005
+LN-0042,Utilities merchants - US Midwest,,Loan,Revolver,Utilities,US Midwest,USD,A,3105319.0,3092897.72,5.45,5.0,1,619,725.0,0.01694
+LN-0043,Technology merchants - US Online/Other,,Loan,Revolver,Technology,US Online/Other,USD,BBB,2853072.0,2830247.42,4.06,5.8,1,761,727.0,0.02962
+LN-0044,Utilities merchants - US Northeast,,Loan,Revolver,Utilities,US Northeast,USD,BBB,2463993.0,2444281.06,1.55,5.8,1,536,722.0,0.01816
+LN-0045,Technology merchants - US Midwest,,Loan,Revolver,Technology,US Midwest,USD,A,1062291.0,1058041.84,2.61,5.0,1,252,724.0,0.0137
+LN-0046,Technology merchants - US South,,Loan,Revolver,Technology,US South,USD,A,1043046.0,1038873.82,6.08,5.0,1,439,723.0,0.00933
+LN-0047,Healthcare merchants - US Online/Other,,Loan,Revolver,Healthcare,US Online/Other,USD,BB,1028720.0,1008145.6,6.5,6.8,1,813,724.0,0.02621
+LN-0048,Utilities merchants - US Online/Other,,Loan,Revolver,Utilities,US Online/Other,USD,BBB,912788.0,905485.7,4.25,5.8,1,224,723.0,0.01095
+LN-0049,Technology merchants - US Northeast,,Loan,Revolver,Technology,US Northeast,USD,BBB,864462.0,857546.3,6.28,5.8,1,199,722.0,0.0123
+LN-0050,Technology merchants - US West,,Loan,Revolver,Technology,US West,USD,BB,780759.0,765143.82,4.84,6.8,1,238,719.0,0.02298
