@@ -3,7 +3,7 @@
 **Candidate Name:** Saumya Singh
 **College Email ID:** saumya2024.24@kgpian.iitkgp.ac.in
 **College / Campus:** Indian Institute of Technology, Kharagpur
-**Demo Video Link:** [YouTube unlisted link]
+**Demo Video Link:** https://youtu.be/_UEzPW6OILw
 **Slide Deck Link (if hosted externally):** Not hosted externally - see [`docs/presentation.pdf`](docs/presentation.pdf)
 
 ---
